@@ -1,0 +1,9 @@
+metric,value
+total_movie_records,4998.0
+missing_budget_records,487.0
+missing_gross_records,874.0
+missing_rating_records,0.0
+financial_analysis_records,3857.0
+individual_genres_found,26.0
+directors_with_at_least_5_rated_movies,222.0
+budget_gross_correlation,0.101
